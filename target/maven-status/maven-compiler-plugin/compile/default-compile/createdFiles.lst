@@ -1,0 +1,6 @@
+com\deliverytech\delivery_api\DeliveryApiApplication.class
+com\deliverytech\delivery_api\Controller\ClienteController.class
+com\deliverytech\delivery_api\Controller\LojaController.class
+com\deliverytech\delivery_api\Controller\PedidoController.class
+com\deliverytech\delivery_api\Controller\HealthController.class
+com\deliverytech\delivery_api\Controller\ProdutoController.class
